@@ -1,2 +1,3 @@
 console.log('Melissa')
-console.log('Warning')
+console.error('Warning')
+console.warn('Warning')
